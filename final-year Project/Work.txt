@@ -1,0 +1,12 @@
+An Effective Privacy Preserving Blockchain Assisted Security Protocol for Cloud Based Digital Twin Environment
+
+
+RID	
+Text_Location	
+Date_Time	
+Text_Desc
+hashcode
+hashcode1
+uname
+
+
